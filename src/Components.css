@@ -1,0 +1,68 @@
+.calculator{
+    margin-top: 100px;
+}
+.heading{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    color: white;
+    text-align: left;
+    margin-left: 100px;
+}
+.inputs{
+    width: 65%;
+    width: 65%;
+    margin: auto;
+    margin-left: revert;
+    text-align: left;
+    margin-left: 200px;
+}
+
+.input{
+    height: 50px;
+    width: 290px;
+    left: 198px;
+    top: 248px;
+    border-radius: 0px;
+    background: #000000;
+    border: 2px solid #FFFFFF;
+    color: white;
+font-size: x-large;
+    margin: 0px 0px 20px 0px;
+    
+}
+.buttons{
+    text-align: left;
+    /* margin-left: 115px; */
+    margin-left: 188px;
+
+    
+}
+button{
+    height: 61px;
+width: 61px;
+left: 200px;
+top: 418px;
+border-radius: 0px;
+margin: 10px;
+
+}
+
+input ::placeholder{
+    height: 29px;
+width: 71px;
+left: 221px;
+top: 259px;
+border-radius: nullpx;
+background: #000000;
+padding: 5px;
+font-size: larger;
+}
+.display{
+    font-size:xx-large;
+    margin-left: 190px;
+    text-align: left;
+
+}
